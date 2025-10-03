@@ -17,7 +17,7 @@
 ## 6. Conclusion & Learnings
 ---
 ## 7. Video pitch
-- Your video link here
+- (https://www.youtube.com/watch?v=0Og9_pH5GRY)
 ## 8. References
 - Vendor links (PCX, VillMan, etc.)
 - PCPartPicker build link
