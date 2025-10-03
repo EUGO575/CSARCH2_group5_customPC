@@ -73,7 +73,6 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1_R1vEzh9az_zGxN
 - **Budget Limit**: ₱200,000.00 (or %5 over budget = ₱210000)
 - **Final Total**: ₱200,510.00
 - ✅ Within budget
-- Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
 1. **CPU (Intel Core Ultra 9 285K):** More expensive than most processors in the market but enhances performance especially for multitasking and heavy workloads. Above and beyond the specifications of an entry-level gaming build.
 2. **Motherboard (MSI MPG Z890 Carbon WiFi):** To get the best performance, some tweaks to BIOS may be needed which can lead to a risk of misconfiguration. Furthermore, it requires more thermal output and power due to the high VRAM.
 3. **RAM (G.Skill Ripjaws M5 64GB (2x32GB) DDR5 6000):** 32GB would have been sufficient for an entry-level gaming PC however, having 64GB provides better future-proofing and can handle demanding workloads.
